@@ -1,0 +1,20 @@
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.hero {
+    background-color: #0070f3;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
